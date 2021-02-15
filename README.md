@@ -1,6 +1,6 @@
 Operating System: Ubantu20, Dataset Link: http://cs.joensuu.fi/sipu/datasets/
 
-**Execute following commands in linex terminal in same order.
+**************Execute following commands in linex terminal in same order.***************
 
 INSTALL g++|Eigen|libboost|numpy|matploib
 
