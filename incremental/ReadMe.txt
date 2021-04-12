@@ -1,4 +1,4 @@
-#Step to run proposed Incremental Algorithm
+**Step to run proposed Incremental Algorithm**
 
 Step 1: Execute the static part by following the steps given in Readme.txt of static Algorithm. After execution three document will be generated clusterOP.csv (Cluster Label), eigenvec1.csv (Eigen vectors), and eigenval.csv (Eigen Values).
 
