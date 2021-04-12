@@ -1,6 +1,6 @@
 NOTE :- The instruction regarding incremental algorithm is inside Incremental folder.
 
-******************Static Algorithm*******************
+ *******************Steps of Static Algorithm*******************
 
 Operating System: Ubantu20, Dataset Link: http://cs.joensuu.fi/sipu/datasets/
 
