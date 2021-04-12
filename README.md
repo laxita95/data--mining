@@ -1,4 +1,4 @@
-NOTE :- The istruction regarding incremental algorithm is inside Incremental folder.
+NOTE :- The instruction regarding incremental algorithm is inside Incremental folder.
 
 Operating System: Ubantu20, Dataset Link: http://cs.joensuu.fi/sipu/datasets/
 
