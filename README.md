@@ -1,3 +1,5 @@
+NOTE :- The istruction regarding incremental algorithm is inside Incremental folder.
+
 Operating System: Ubantu20, Dataset Link: http://cs.joensuu.fi/sipu/datasets/
 
 **************Execute following commands in linex terminal in same order.***************
