@@ -1,4 +1,4 @@
-NOTE :- The instruction regarding incremental algorithm is inside Incremental folder.
+**NOTE** :- The instruction regarding incremental algorithm is inside Incremental folder.
 
  *******************Steps of Static Algorithm*******************
 
