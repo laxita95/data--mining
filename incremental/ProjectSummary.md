@@ -1,4 +1,4 @@
-1. Summary of Incremental Algorithm:
+**1. Summary of Incremental Algorithm:**
 
 The proposed incremental algorithm is performed in two parts. In the first part, the static algorithm is performed over an existing dataset to obtain the cluster label, EigenVectors, and Eigen Values.
 Now, in second part, 
@@ -13,7 +13,7 @@ Now, in second part,
 The static part of the next iteration generates the cluster label for the data points of the modified data set. Now, we compare the cluster label of each data point to calculate the accuracy of the incremental algorithm with a static algorithm.
 
 
-2. Computation of Accuracy:
+**2. Computation of Accuracy:**
 
 The comparison is performed between the final output of an iteration N with the output of the static part of the next iteration i.e. iteration (N+1). We are considering only newly added data points cluster labels for accuracy computation.
 
