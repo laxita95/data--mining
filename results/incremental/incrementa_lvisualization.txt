@@ -1,1 +1,2 @@
-
+1.  Itteration1Step2Incremental is compared with Itteration2Step1Static
+2.  Itteration2Step2Incremental is compared with Itteration3Step1Static
